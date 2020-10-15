@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 90px;
+    text-align: center;
+
+}
+
+h1 {
+    color: purple;
+}
+
+body {
+    text-align: center;
+    background-image: url("https://ak8.picdn.net/shutterstock/videos/1029310358/thumb/1.jpg");
+}
+
+img {
+    Height: 700px;
+    Width: 500px;
+}
+
+h2 {
+    font-size: 90px;
+    color: red;
+
+    font-family: 'Bangers', cursive;
+}
+
+p {
+    font-size: 100px;
+    color: blue;
+}
+
+.land {
+    margin: auto;
+    width: 600px;
+}
+
+.land {
+    color: green;
+    text-align: center;
+}
